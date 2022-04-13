@@ -31,6 +31,7 @@
 * [Приложение для анализа акций](https://github.com/nvdovichev/Cheremas)
 * [Игра выбери или умри](https://github.com/nsd6803/ProjectAlpha)
 * [Орг. приложение для ателье](https://github.com/gimmewhitewings/Astet-Manager)
+* [Игра танчики](https://github.com/superPlatypus/tanks)
 
 <!-- * Проект 1
 * Проект 2
